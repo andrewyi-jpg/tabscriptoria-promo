@@ -1,0 +1,29 @@
+{
+  "source": "tabscriptoria.com Solo ideas, chords 'Am F C G', 92 BPM, style melodic, two-fret box frets 5-7, seed 2",
+  "bar": 2.6087,
+  "chords": ["Am", "F", "C", "G"],
+  "levels": {
+    "rhythm": {
+      "id": "7642eec7f1044061be5a55c98c2c6f9a",
+      "phrases": ["Every note is A, the root of Am. The rhythm is the idea.", "Every note is F, the root of F. The rhythm answers and leaves space.", "Every note is C, the root of C.", "Every note is G, the root of G."],
+      "notes": [[0,0.587,57,3,7],[0.652,0.261,57,3,7],[0.978,0.261,57,3,7],[1.304,0.587,57,3,7],[1.957,0.457,57,3,7],[2.609,0.587,65,1,6],[3.261,0.261,65,1,6],[3.587,0.261,65,1,6],[3.913,1.109,65,1,6],[5.217,0.261,60,2,5],[5.543,0.261,60,2,5],[5.87,0.587,60,2,5],[6.522,0.261,60,2,5],[6.848,0.261,60,2,5],[7.174,0.457,60,2,5],[7.826,0.261,55,3,5],[8.152,0.261,55,3,5],[8.478,0.587,55,3,5],[9.13,1.109,55,3,5]]
+    },
+    "guide": {
+      "id": "6a6fb83fb58746c69ac92ad596acbcb5",
+      "phrases": ["C (b3 of Am) on beat 1, then E (5 of Am) on beat 3.", "C (5 of F) on beat 1, then A (3 of F) on beat 3.", "E (3 of C) on beat 1, then G (5 of C) on beat 3.", "Lands on G (root of G) and holds it."],
+      "labels": ["b3", "5", "5", "3", "3", "5", "R"],
+      "notes": [[0,1.239,60,2,5],[1.304,1.109,64,1,5],[2.609,1.239,60,2,5],[3.913,1.109,57,3,7],[5.217,1.239,64,1,5],[6.522,1.109,55,3,5],[7.826,2.413,55,3,5]]
+    },
+    "approach": {
+      "id": "a65e6f6cd09b40e5b81a571d95ec201e",
+      "phrases": ["Lands on C (b3 of Am). D steps down into C, the 5 of F.", "Lands on C (5 of F). F steps down into E, the 3 of C.", "Lands on E (3 of C). A steps down into G, the root of G.", "Lands on G (root of G) and holds it."],
+      "roles": ["T", "", "A", "T", "", "A", "T", "", "A", "T"],
+      "notes": [[0,1.239,60,2,5],[1.304,0.587,64,1,5],[1.957,0.522,62,2,7],[2.609,1.239,60,2,5],[3.913,0.587,69,0,5],[4.565,0.522,65,1,6],[5.217,1.239,64,1,5],[6.522,0.587,60,2,5],[7.174,0.522,57,3,7],[7.826,2.413,55,3,5]]
+    },
+    "idea": {
+      "id": "a9f12faf20344af7a4dd40876b6ebcc2",
+      "phrases": ["Motif", "Answer", "Motif, higher", "Ending"],
+      "notes": [[0,0.587,52,4,7],[0.652,0.913,50,4,5],[1.63,0.783,52,4,7],[2.935,0.261,55,3,5],[3.261,0.587,57,3,7],[3.913,1.109,60,2,5],[5.217,0.587,64,1,5],[5.87,0.587,62,2,7],[6.522,0.261,64,1,5],[6.848,0.783,60,2,5],[7.826,0.261,62,2,7],[8.152,0.261,60,2,5],[8.478,0.261,57,3,7],[8.804,0.261,55,3,5],[9.13,1.109,55,3,5]]
+    }
+  }
+}
