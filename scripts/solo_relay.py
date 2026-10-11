@@ -129,8 +129,8 @@ def compose(t):
     # --- hook (first 2 bars), then running title ---
     if t < 2 * BAR:
         tag(d, (64, 150), 'TAB SCRIPTORIA  ·  SOLO IDEAS')
-        y = draw_lines(d, (64, 215), ['I typed 4 chords.'], XB(92), TEXT, lh=100)
-        draw_lines(d, (64, y), [('Got 8 solos to learn.', MINT)], XB(92), MINT, lh=100)
+        y = draw_lines(d, (64, 215), ['Same 4 chords.'], XB(92), TEXT, lh=100)
+        draw_lines(d, (64, y), [('8 solos to learn.', MINT)], XB(92), MINT, lh=100)
     else:
         draw_lines(d, (64, 205), ['Same 4 chords,'], XB(78), TEXT, lh=86)
         draw_lines(d, (64, 291), [('8 solos to learn', MINT)], XB(78), MINT, lh=86)
@@ -191,7 +191,7 @@ def compose(t):
         if x > NX1 - 80: a *= max(0, (NX1 + 10 - x) / 90)
         paste_a(img, spr, (x - spr.width / 2, STR_Y0 + string * STR_GAP - spr.height / 2), a)
     d = ImageDraw.Draw(img, 'RGBA')
-    d.text((64, 1450), 'Written by Tab Scriptoria. Played by you.', font=SB(32), fill=TEXT3)
+    d.text((64, 1450), 'App playback  ·  solo ideas written by Tab Scriptoria', font=SB(32), fill=TEXT3)
     # --- end card ---
     if t > T_END - 0.25:
         a = ease((t - (T_END - 0.25)) / 0.45)
