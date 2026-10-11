@@ -1,0 +1,15 @@
+{
+  "note": "TikTok Commercial Music Library tracks (via Postiz musicSearch on the totalbull2 TikTok Business integration, 2026-10-11). Calm/acoustic picks for guitar content.",
+  "tracks": [
+    {"id": "6817472741495539713", "title": "Refreshing and transparent acoustic music", "artist": "Yusuke Shimizu", "mood": "calm acoustic"},
+    {"id": "7383368110516439056", "title": "Crystals (Acoustic)", "artist": "DJ Daniel Havij", "mood": "acoustic"},
+    {"id": "7540730590665197585", "title": "Zamba Tuya", "artist": "Daniel Frascoli", "mood": "folk"},
+    {"id": "7584037896080902145", "title": "Sunset in Girona", "artist": "Noah Preminger & Max Light", "mood": "jazz"},
+    {"id": "7464737604120283152", "title": "Espresso Soul", "artist": "edivieira", "mood": "chill"},
+    {"id": "7244681450854959105", "title": "New Bossa Vibe, Pt. 5", "artist": "Marcio Nigro", "mood": "bossa"},
+    {"id": "7455364067202287633", "title": "Walkdown in F", "artist": "Chill Piano", "mood": "piano"},
+    {"id": "7426811894536849424", "title": "Relaxed and chill lofi hip hop long version", "artist": "Koko ni studio", "mood": "lofi"},
+    {"id": "7410158777838684176", "title": "Empty Chair Blues", "artist": "Room2Breathe", "mood": "blues"},
+    {"id": "7031666552407590913", "title": "Happy Light Jazz - Cafe3", "artist": "Kobat", "mood": "light jazz"}
+  ]
+}
