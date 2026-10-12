@@ -1,10 +1,67 @@
 {
   "posts": [
-    {"date": "2026-10-11", "slot": "15:48 UTC (11:48 ET)", "format": "solo relay video", "hook": "Same 4 chords. 8 solos to learn.", "inputs": "Solo ideas Am F C G 92 BPM seed 1, 8 styles", "postiz_id": "cmv3zzcw00qmonp0y7uowyktg", "file": "out/2026-10-11/solo_relay_8_styles.mp4"},
-    {"date": "2026-10-11", "slot": "17:00 UTC (1 PM ET)", "format": "practice-steps carousel", "hook": "Can't solo over chords? Do these 4 steps in this order.", "inputs": "Solo ideas Am F C G melodic box seed 2, levels rhythm/guide/approach/idea", "postiz_id": "cmv3zrwo20qmdnp0yws4b4gdq", "file": "out/2026-10-11/steps/"},
-    {"date": "2026-10-11", "slot": "00:00 UTC Oct 12 (8 PM ET)", "format": "POV meme", "hook": "pov: the tab apps only let you transcribe 20 seconds", "inputs": "Andrew webcam clips WIN_20261011_00_05_43 + 00_07_20 (silent)", "music": "7202851544470685697 Mischief And Mayhem", "postiz_id": "cmv3zryol0qmenp0y0fld7b7i", "file": "out/2026-10-11/pov_20_seconds.mp4"}
+    {
+      "date": "2026-10-11",
+      "slot": "15:48 UTC (11:48 ET)",
+      "format": "solo relay video",
+      "hook": "Same 4 chords. 8 solos to learn.",
+      "inputs": "Solo ideas Am F C G 92 BPM seed 1, 8 styles",
+      "postiz_id": "cmv3zzcw00qmonp0y7uowyktg",
+      "file": "out/2026-10-11/solo_relay_8_styles.mp4"
+    },
+    {
+      "date": "2026-10-11",
+      "slot": "17:00 UTC (1 PM ET)",
+      "format": "practice-steps carousel",
+      "hook": "Can't solo over chords? Do these 4 steps in this order.",
+      "inputs": "Solo ideas Am F C G melodic box seed 2, levels rhythm/guide/approach/idea",
+      "postiz_id": "cmv3zrwo20qmdnp0yws4b4gdq",
+      "file": "out/2026-10-11/steps/"
+    },
+    {
+      "date": "2026-10-11",
+      "slot": "00:00 UTC Oct 12 (8 PM ET)",
+      "format": "POV meme",
+      "hook": "pov: the tab apps only let you transcribe 20 seconds",
+      "inputs": "Andrew webcam clips WIN_20261011_00_05_43 + 00_07_20 (silent)",
+      "music": "7202851544470685697 Mischief And Mayhem",
+      "postiz_id": "cmv3zryol0qmenp0y0fld7b7i",
+      "file": "out/2026-10-11/pov_20_seconds.mp4"
+    },
+    {
+      "date": "2026-10-12",
+      "slot": "21:00 UTC (5 PM ET)",
+      "format": "chord quiz video",
+      "hook": "Name these 5 chords from the tab alone.",
+      "inputs": "Original chord list E7, Dsus2, Fmaj7, Bm7, Cadd9; original tick/chime SFX",
+      "music": "7031666552407590913 Happy Light Jazz - Cafe3 (vol 60)",
+      "postiz_id": "cmv5om9zx09zuqw0ygeag7xba",
+      "file": "out/2026-10-12/chord_quiz_5.mp4"
+    },
+    {
+      "date": "2026-10-12",
+      "slot": "00:00 UTC Oct 13 (8 PM ET; moved from 12:30 PM, approved after slot passed)",
+      "format": "CAGED education carousel",
+      "hook": "You know C. Now play it 5 ways.",
+      "inputs": "CAGED shapes of C major (C/A/G/E/D), 2-minute drill; no app output",
+      "music": "autoAddMusic",
+      "postiz_id": "cmv5oma9o09zvqw0y7k24waxl",
+      "file": "out/2026-10-12/caged/"
+    }
   ],
   "earlier": [
-    {"date": "2026-10-11", "slot": "03:18 UTC", "format": "transcription demo (Silk Hat cover)", "postiz_id": "cmv3973au0l07np0yj2rh1cyo"}
+    {
+      "date": "2026-10-11",
+      "slot": "03:18 UTC",
+      "format": "transcription demo (Silk Hat cover)",
+      "postiz_id": "cmv3973au0l07np0yj2rh1cyo"
+    }
+  ],
+  "skipped": [
+    {
+      "date": "2026-10-12",
+      "slot": "8 PM ET demo",
+      "reason": "tabscriptoria.com blocked from cloud workspace; no new clips"
+    }
   ]
 }
