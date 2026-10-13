@@ -12,10 +12,17 @@
       "audio": "his playing, phone mic, about -23 LUFS (normalize to -14)",
       "usable": "0:02-2:04 (first 2 s is camera setup, last 2 s is him reaching to stop the recording)",
       "music_rights": "someone else's song; Andrew has the songwriter's permission, so this clip's audio and on-screen tab are allowed despite the no-copyrighted-songs rule",
-      "credit": "song and songwriter not named yet; ask Andrew in the review message whether the caption should credit them",
+      "credit": "\"Samba para Ti\" by Fernando Perez (Brazilian guitar); credit in caption and on screen",
       "uses": "transcription input once (recording -> tab demo), or silent hand footage (max 2x/week across clips); never reuse a segment",
       "layout_tip": "landscape: a 9:16 center crop cuts off the fretting hand; use a full-width band (1080x608) or crop to one hand",
-      "used": []
+      "used": [
+        {
+          "date": "2026-10-13",
+          "slot": "5 PM ET",
+          "segment": "1:36-1:52",
+          "use": "silent hand footage (POV by heart)"
+        }
+      ]
     }
   ]
 }

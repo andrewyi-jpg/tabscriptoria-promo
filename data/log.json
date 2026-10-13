@@ -47,6 +47,26 @@
       "music": "autoAddMusic",
       "postiz_id": "cmv5oma9o09zvqw0y7k24waxl",
       "file": "out/2026-10-12/caged/"
+    },
+    {
+      "date": "2026-10-13",
+      "slot": "17:36 UTC (1:36 PM ET; posted now on Andrew's request, planned 12:30 PM)",
+      "format": "Travis picking education carousel",
+      "hook": "Travis picking in 4 steps.",
+      "inputs": "Original Travis pattern in G (thumb E/D, index G, middle B), then Em and C; no app output",
+      "music": "autoAddMusic",
+      "postiz_id": "cmv6yorch0llmqw0ybu7jrdgd",
+      "file": "out/2026-10-13/travis/"
+    },
+    {
+      "date": "2026-10-13",
+      "slot": "21:00 UTC (5 PM ET)",
+      "format": "POV video over silent clip",
+      "hook": "pov: you can play it by heart",
+      "inputs": "IMG_6754 1:36-1:52 silent; on-screen + caption credit Samba para Ti, Fernando Perez",
+      "music": "7455364067202287633 Walkdown in F (vol 70)",
+      "postiz_id": "cmv6yorjh0llnqw0y42bwf6st",
+      "file": "out/2026-10-13/pov_by_heart.mp4"
     }
   ],
   "earlier": [
@@ -62,6 +82,11 @@
       "date": "2026-10-12",
       "slot": "8 PM ET demo",
       "reason": "tabscriptoria.com blocked from cloud workspace; no new clips"
+    },
+    {
+      "date": "2026-10-13",
+      "slot": "8 PM ET demo",
+      "reason": "tabscriptoria.com blocked from cloud workspace"
     }
   ]
 }
