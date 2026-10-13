@@ -12,6 +12,7 @@ from tslib import *
 
 CLIP, START, DUR, OUT = sys.argv[1], float(sys.argv[2]), float(sys.argv[3]), sys.argv[4]
 SR = 44100
+CREDIT = 'Song: "Samba para Ti" by Fernando Perez'
 BAND_Y, BAND_W, BAND_H = 600, 1080, 608
 END_T = DUR
 T_TOTAL = DUR + 3.0
@@ -66,6 +67,8 @@ def compose(t, fr):
     d = ImageDraw.Draw(img, 'RGBA')
     d.line((0, BAND_Y, W, BAND_Y), fill=(255, 255, 255, 40), width=2)
     d.line((0, BAND_Y + BAND_H, W, BAND_Y + BAND_H), fill=(255, 255, 255, 40), width=2)
+    if CREDIT:
+        d.text((64, BAND_Y + BAND_H + 28), CREDIT, font=SB(34), fill=TEXT2)
     t0, lines, hi = BEATS[beat]
     a = 1.0 if beat == 0 else ease((t - t0) / 0.18)
     layer = Image.new('RGBA', (W, H), (0, 0, 0, 0)); dl = ImageDraw.Draw(layer)
