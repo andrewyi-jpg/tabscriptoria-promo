@@ -1,0 +1,21 @@
+{
+  "about": "Clips Andrew shared for posts. Files are in assets/clips/. Check before choosing inputs; when a post uses a clip, add {date, slot, segment, use} to its used list.",
+  "clips": [
+    {
+      "id": "IMG_6754",
+      "file": "assets/clips/IMG_6754.mp4",
+      "shared": "2026-10-13",
+      "recorded": "2026-06-20",
+      "duration_s": 126.3,
+      "video": "1920x1080 landscape, 24 fps, H.264, SDR (tone-mapped from iPhone HDR), location and device metadata removed",
+      "content": "Andrew playing nylon-string classical guitar fingerstyle; static phone camera framed from his chin down, both hands in frame",
+      "audio": "his playing, phone mic, about -23 LUFS (normalize to -14)",
+      "usable": "0:02-2:04 (first 2 s is camera setup, last 2 s is him reaching to stop the recording)",
+      "music_rights": "someone else's song; Andrew has the songwriter's permission, so this clip's audio and on-screen tab are allowed despite the no-copyrighted-songs rule",
+      "credit": "song and songwriter not named yet; ask Andrew in the review message whether the caption should credit them",
+      "uses": "transcription input once (recording -> tab demo), or silent hand footage (max 2x/week across clips); never reuse a segment",
+      "layout_tip": "landscape: a 9:16 center crop cuts off the fretting hand; use a full-width band (1080x608) or crop to one hand",
+      "used": []
+    }
+  ]
+}

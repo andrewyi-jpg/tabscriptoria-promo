@@ -4,5 +4,5 @@ Finished promo videos and carousels for [tabscriptoria.com](https://tabscriptori
 
 - `scripts/` - renderers (`tslib.py` shared brand helpers, one script per format)
 - `data/` - note data exported from Tab Scriptoria (Solo ideas, transcriptions)
-- `assets/` - fonts (Inter, SIL OFL) and app screenshots
+- `assets/` - fonts (Inter, SIL OFL), app screenshots, and source clips in `assets/clips/` (listed in `data/clips.json`)
 - `out/YYYY-MM-DD/` - rendered posts for that day
