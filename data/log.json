@@ -68,6 +68,26 @@
       "postiz_id": "cmv6yorjh0llnqw0y42bwf6st",
       "file": "out/2026-10-13/pov_by_heart.mp4",
       "status": "on hold: Andrew asked for revisions 17:40 UTC; must be removed in the Postiz app (tools cannot delete)"
+    },
+    {
+      "date": "2026-10-14",
+      "slot": "23:35 UTC (7:35 PM ET; planned 12:30 PM, approved after slot passed)",
+      "format": "fretboard notes education carousel",
+      "hook": "Find any note on the neck.",
+      "inputs": "Natural notes on low E and A, octave shape (2 strings/2 frets), B-string shift (+3), 7-note drill; no app output",
+      "music": "autoAddMusic",
+      "postiz_id": "cmv8qui9o02kgtj0yrhr2szu2",
+      "file": "out/2026-10-14/notes/"
+    },
+    {
+      "date": "2026-10-14",
+      "slot": "00:00 UTC Oct 15 (8 PM ET; planned 5 PM, approved after slot passed)",
+      "format": "odd-chord-out key quiz video",
+      "hook": "1 chord is NOT in the key. Which?",
+      "inputs": "Original rounds: G(G Em C F), C(C Ab Dm G), D(D Bm Gm A), A(A Dm E F#m), E(E B C#m G); synth plucked strums + SFX",
+      "music": "7584037896080902145 Sunset in Girona (vol 18)",
+      "postiz_id": "cmv8quiet02khtj0y3sr2z9ko",
+      "file": "out/2026-10-14/odd_chord_key.mp4"
     }
   ],
   "earlier": [
@@ -88,6 +108,11 @@
       "date": "2026-10-13",
       "slot": "8 PM ET demo",
       "reason": "tabscriptoria.com blocked from cloud workspace"
+    },
+    {
+      "date": "2026-10-14",
+      "slot": "8 PM ET demo",
+      "reason": "tabscriptoria.com blocked from cloud workspace; laptop not connected; slot used for the 5 PM quiz"
     }
   ]
 }
