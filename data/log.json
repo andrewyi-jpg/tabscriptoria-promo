@@ -88,6 +88,36 @@
       "music": "7584037896080902145 Sunset in Girona (vol 18)",
       "postiz_id": "cmv8quiet02khtj0y3sr2z9ko",
       "file": "out/2026-10-14/odd_chord_key.mp4"
+    },
+    {
+      "date": "2026-10-15",
+      "slot": "19:02 UTC (3:02 PM ET; posted now on Andrew's choice, planned 12:30 PM, approved after slot passed)",
+      "format": "tab symbols education carousel",
+      "hook": "Read this tab in 5 slides.",
+      "inputs": "Original licks showing tab lines/numbers, h/p, slides and bends (/ \\ b r), ~ x PM; no app output",
+      "music": "autoAddMusic",
+      "postiz_id": "cmv9xngxh077ale0yx80cnvg3",
+      "file": "out/2026-10-15/symbols/"
+    },
+    {
+      "date": "2026-10-15",
+      "slot": "21:00 UTC (5 PM ET)",
+      "format": "capo quiz video",
+      "hook": "Capo on. What does it REALLY sound like?",
+      "inputs": "Original rounds: capo 2+G=A, 3+C=Eb, 5+Em=Am, 4+D=F#, 7+Am=Em; synth plucked strums + SFX",
+      "music": "7383368110516439056 Crystals (Acoustic) (vol 18)",
+      "postiz_id": "cmv9xnh15077ble0y8ru9z9rb",
+      "file": "out/2026-10-15/capo_quiz.mp4"
+    },
+    {
+      "date": "2026-10-15",
+      "slot": "00:00 UTC Oct 16 (8 PM ET)",
+      "format": "POV video over silent clip (in place of demo)",
+      "hook": "pov: your friend says \"wait, teach me that\"",
+      "inputs": "IMG_6754 1:08-1:23 silent, full frame; on-screen + caption credit Samba para Ti, Fernando Perez",
+      "music": "7540730590665197585 Zamba Tuya (vol 70)",
+      "postiz_id": "cmv9xnh58077cle0yv7f3a1d6",
+      "file": "out/2026-10-15/pov_teach_me.mp4"
     }
   ],
   "earlier": [
@@ -113,6 +143,11 @@
       "date": "2026-10-14",
       "slot": "8 PM ET demo",
       "reason": "tabscriptoria.com blocked from cloud workspace; laptop not connected; slot used for the 5 PM quiz"
+    },
+    {
+      "date": "2026-10-15",
+      "slot": "8 PM ET demo",
+      "reason": "tabscriptoria.com blocked from cloud workspace; slot used for silent-clip POV"
     }
   ]
 }
