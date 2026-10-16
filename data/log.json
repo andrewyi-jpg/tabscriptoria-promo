@@ -118,6 +118,36 @@
       "music": "7540730590665197585 Zamba Tuya (vol 70)",
       "postiz_id": "cmv9xnh58077cle0yv7f3a1d6",
       "file": "out/2026-10-15/pov_teach_me.mp4"
+    },
+    {
+      "date": "2026-10-16",
+      "slot": "20:05 UTC (4:05 PM ET; planned 12:30 PM, approved after slot passed)",
+      "format": "barre chord fixes education carousel",
+      "hook": "F barre buzzing? 4 fixes.",
+      "inputs": "E-shape F barre: thumb/arm pull, index roll + behind fret, string-by-string check (B string), start at fret 5 (A) -> 3 (G) -> 1 (F), 60-sec drill; no app output",
+      "music": "autoAddMusic",
+      "postiz_id": "cmvbdvl150heoqt0ye7n1wpc7",
+      "file": "out/2026-10-16/barre/"
+    },
+    {
+      "date": "2026-10-16",
+      "slot": "21:00 UTC (5 PM ET)",
+      "format": "tab-by-ear test video",
+      "hook": "Can you tab this by ear?",
+      "inputs": "Original melodies: easy B 0-1-3-5; medium G2 B0 B1 G2 G0; hard e3 e0 B3 B1h3 G2; plucked synth + SFX",
+      "music": "7464737604120283152 Espresso Soul (vol 18)",
+      "postiz_id": "cmvbdvl6n0hepqt0y9es0onve",
+      "file": "out/2026-10-16/ear_tab_3_levels.mp4"
+    },
+    {
+      "date": "2026-10-16",
+      "slot": "00:00 UTC Oct 17 (8 PM ET)",
+      "format": "chord-change drill play-along video (in place of demo)",
+      "hook": "Keep up? 3 speeds.",
+      "inputs": "G Em C D, 2 beats per chord at 70/100/130 BPM, count-in; plucked synth strums + click",
+      "music": "7244681450854959105 New Bossa Vibe, Pt. 5 (vol 18)",
+      "postiz_id": "cmvbdvlb10heqqt0yj2miu7oq",
+      "file": "out/2026-10-16/chord_drill_3_speeds.mp4"
     }
   ],
   "earlier": [
@@ -148,6 +178,11 @@
       "date": "2026-10-15",
       "slot": "8 PM ET demo",
       "reason": "tabscriptoria.com blocked from cloud workspace; slot used for silent-clip POV"
+    },
+    {
+      "date": "2026-10-16",
+      "slot": "8 PM ET demo",
+      "reason": "tabscriptoria.com blocked from cloud workspace; slot used for chord-change drill"
     }
   ]
 }
